@@ -20,5 +20,7 @@ public class Main {
         System.out.println("FIXED!!!!");
         System.out.println("testesttestest");
 
+        Login login1 = new Login(login, haslo);
+        System.out.println(login1);
     }
 }
