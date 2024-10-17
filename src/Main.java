@@ -16,5 +16,9 @@ public class Main {
 
         System.out.println("Twoj login: $" + login);
         System.out.println("Twoje haslo: $" + haslo);
+
+        System.out.println("FIXED!!!!");
+        System.out.println("testesttestest");
+
     }
 }
